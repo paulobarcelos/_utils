@@ -1,0 +1,5 @@
+############################
+# Git completion
+# (make sure ~/git-completion.bash exists! It can be found in the /Shell directory of this repo)
+############################
+source ~/git-completion.bash
