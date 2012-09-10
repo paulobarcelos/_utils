@@ -1,0 +1,16 @@
+*.depend
+*.layout
+*.mode*v3
+*.pbxuser
+*.app*
+*.DS_*
+*.xcworkspacedata
+xcuserdata/
+
+*.opensdf
+*.sdf
+*.suo
+*.ipch
+
+.svn/
+obj/
