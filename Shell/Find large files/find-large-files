@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo find / -xdev -type f -size +200M -exec ls -la -sh {} \;
